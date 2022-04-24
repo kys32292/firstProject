@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Sloth/Sloth.unity
+    guid: 415af6f871d0cdc41a18290956276aca
+  - enabled: 1
+    path: Assets/Scenes/Sloth/SlothMini.unity
+    guid: 66b915006f9e5c749af9a22211b4597b
+  - enabled: 1
+    path: Assets/Scenes/Sloth/New Scene.unity
+    guid: b64acc2683898374e88144798d31a9e4
+  m_configObjects: {}
